@@ -1,0 +1,10 @@
+Package: geomst
+Type: Package
+Title: Obtains minimum spanning tree from vector of geographic locations
+Version: 0.1
+Date: 2016-05-07
+Author: Levi Boxell
+Maintainer: Levi Boxell <lboxell@stanford.edu>
+Description: Given a list of geographic locations, such as cities, the package calculates a minimum spanning tree between the locations. Plotting functionality also included.
+License: MIT License
+LazyData: TRUE
